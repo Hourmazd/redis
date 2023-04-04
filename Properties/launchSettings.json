@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SampleRedisCacheApp": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

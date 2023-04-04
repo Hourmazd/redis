@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleRedisCacheApp", "SampleRedisCacheApp.csproj", "{BF3FF540-419A-4356-8B63-D7DDD7063E8A}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{DBA6175D-A8B0-4FE0-A9CA-B2CC54E3523C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF3FF540-419A-4356-8B63-D7DDD7063E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF3FF540-419A-4356-8B63-D7DDD7063E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF3FF540-419A-4356-8B63-D7DDD7063E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF3FF540-419A-4356-8B63-D7DDD7063E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBA6175D-A8B0-4FE0-A9CA-B2CC54E3523C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA6175D-A8B0-4FE0-A9CA-B2CC54E3523C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA6175D-A8B0-4FE0-A9CA-B2CC54E3523C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA6175D-A8B0-4FE0-A9CA-B2CC54E3523C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {504247E2-E4A7-446C-B34C-692C9A287730}
+	EndGlobalSection
+EndGlobal
